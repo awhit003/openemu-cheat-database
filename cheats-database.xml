@@ -6,6 +6,7 @@
                 <hash md5="6ea5fc0e4b56a232ac3cbdab4b4a6bcd" />
             </hashes>
             <cheats>
+                <!-- https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Cheat-codes -->
                 <!-- https://gamefaqs.gamespot.com/gba/560436-final-fantasy-tactics-advance/faqs/26118 -->
 
                 <!-- Misc -->
@@ -31,18 +32,6 @@
 
                 <!-- Hero-specific -->
                 <cheat code="D3C3D32C6FB077AA" type="GameShark" description="Hero: Double Sword Ability Mastered" />
-                <cheat code="572905DEEC7804A2" type="GameShark" description="Hero: Quick Leveling-Up" />
-                <cheat code="D0D63EAAFD4C724B" type="GameShark" description="Hero: Infinite HP" />
-                <cheat code="2E36CA0FFD9DBA83" type="GameShark" description="Hero: Infinite MP" />
-                <cheat code="08CC7EC388E0AB87" type="GameShark" description="Hero: Infinite JP" />
-                <cheat code="81896D8C0E6A9641" type="GameShark" description="Hero: Max Attack" />
-                <cheat code="CFFFFA54E4B44369" type="GameShark" description="Hero: Max Defense" />
-                <cheat code="25951A24700B3CC1" type="GameShark" description="Hero: Max Magic Attack" />
-                <cheat code="E5371E6ACBDD640D" type="GameShark" description="Hero: Max Magic Defense" />
-                <cheat code="246D67A50BB62FB6" type="GameShark" description="Hero: Max Speed" />
-                <cheat code="DF6B8F8610AC5192" type="GameShark" description="Hero: 0 Red Cards" />
-                <cheat code="E090637D5157C565" type="GameShark" description="Hero: 0 Yellow Cards" />
-                <cheat code="A35A903C946DFBAF+527ACF52DBF2FCC4+629623F7675D3304+FEE8A57BAAB217DB+984B093F227AB33A+8552A113EEDA3C2B+468E68FFF3CDB675+13FA2D55C733A5DD+0571D33658197EA8+95AAB73A7C5AA42B+99AA74855E332A90+AD94959F847F3E77+3555AEE29273DD33+BFDAC405DEB2F174+4F5C932D8FFBCFD2+853E50499A067AE8+7ABE27EDD61CEF41+9BD0B72DA2BFBC28+7BDCA1AF21DEC9CB+C60FC1E0A3A0EAD1+F70E12638DA4453B+C4FD8D664DCCBE60+FF9B18A3F2B16EF9+08F7B3A9FF137050+8B78B9901F50000E+434AD74B7324A5D7+073F58C15C8826B3+1BBBD696DDE20C83+B44AC8644A612B33+28C739EEA14D10C1+1BA5FE5AD24F0BAD+848C220DB8D9AD57+AA5EF77690716925+390A7974575C26E5+B225CAA52EB38626+F8CAEE1C46C11F8D" type="GameShark" description="Hero: All Abilities" />
 
                 <!-- Mission Item, Slot A -->
                 <cheat code="02002BFC:0000001F" type="Raw" description="Mission Item, Slot A: Adaman Alloy" />
@@ -465,6 +454,89 @@
                 <cheat code="2208B36400000063" type="Action Replay" description="Infinite Lives" />
                 <cheat code="1208B3500000027C" type="Action Replay" description="Invincible" />
                 <cheat code="02088C3C00430043+02088C4000430043+02088C4400430043+02088C4800430043" type="Action Replay" description="Open All Worlds" />
+            </cheats>
+        </game>
+        <game title="Final Fantasy Tactics A2: Grimoire of the Rift (USA)">
+            <hashes>
+                <hash md5="aaffeb638f1ac98ed3a954264ad1bf2e" />
+            </hashes>
+            <cheats>
+                <!-- https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Cheat-codes -->
+                <!-- https://gamefaqs.gamespot.com/boards/937330-final-fantasy-tactics-a2-grimoire-of-the-rift/43898959 -->
+
+                <cheat code="0212D6FC05F5E0FF" type="Action Replay" description="Infinite Gil" />
+                <cheat code="1212D7000000270F" type="Action Replay" description="Infinite CP" />
+                <cheat code="C000000000000017+1212B154000003E7+DC0000000000011C+D200000000000000" type="Action Replay" description="Infinite HP" />
+                <cheat code="C000000000000017+1212B158000003E7+DC0000000000011C+D200000000000000" type="Action Replay" description="Infinite MP" />
+                <cheat code="94000130FFFB0000+C000000000000017+2212C07C000000FF+0212B15C270F270F+0212B160270F270F+DC0000000000011C+D200000000000000" type="Action Replay" description="Max Stats [Select]" />
+                <cheat code="D50000000000FFFF+C000000000000004+D70000000212D7FE+D200000000000000" type="Action Replay" description="Full list of Laws" />
+                <cheat code="0206A0E8E8BD8018" type="Action Replay" description="Bypass Forbidden Laws" />
+                <cheat code="0212D764FFFFFFFF+1212D768000003FF+0212D778FFFFFFFF+0212D77CFFFFFFFF+0212D780FFFFFFFF+2212D784000000FF" type="Action Replay" description="All Rumors" />
+                <cheat code="1212D7840000FFFF+2212D786000000FF+2212D81F000000FF+2212D820000000FF" type="Action Replay" description="Unlock all Jobs (Even hidden ones)" />
+                <cheat code="94000130FFFB0000+C000000000000017+1212B1720000FFFF+0212B174FFFFFFFF+0212B178FFFFFFFF+0212B17CFFFFFFFF+0212B180FFFFFFFF+0212B184FFFFFFFF+0212B188FFFFFFFF+0212B18CFFFFFFFF+0212B190FFFFFFFF+0212B194FFFFFFFF+0212B198FFFFFFFF+0212B19CFFFFFFFF+0212B1A0FFFFFFFF+0212B1A4FFFFFFFF+0212B1A8FFFFFFFF+0212B1ACFFFFFFFF+0212B1B0FFFFFFFF+0212B1B4FFFFFFFF+0212B1B8FFFFFFFF+0212B1BCFFFFFFFF+0212B1C0FFFFFFFF+0212B1C4FFFFFFFF+0212B1C8FFFFFFFF+0212B1CCFFFFFFFF+0212B1D0FFFFFFFF+0212B1D4FFFFFFFF+0212B1D8FFFFFFFF+0212B1DCFFFFFFFF+0212B1E0FFFFFFFF+0212B1E4FFFFFFFF+0212B1E8FFFFFFFF+0212B1ECFFFFFFFF+0212B1F0FFFFFFFF+0212B1F4FFFFFFFF+0212B1F8FFFFFFFF+0212B1FCFFFFFFFF+0212B200FFFFFFFF+0212B204FFFFFFFF+0212B208FFFFFFFF+0212B20CFFFFFFFF+0212B210FFFFFFFF+0212B214FFFFFFFF+0212B218FFFFFFFF+0212B21CFFFFFFFF+0212B220FFFFFFFF+0212B224FFFFFFFF+0212B228FFFFFFFF+0212B22CFFFFFFFF+0212B230FFFFFFFF+0212B234FFFFFFFF+0212B238FFFFFFFF+DC0000000000011C+D200000000000000" type="Action Replay" description="All Jobs Mastered; Needs Unlock [Select]" />
+                <cheat code="2212D817000000FF+0212D818FFFFFFFF+0212D81CFFFFFFFF" type="Action Replay" description="Max Clan Capacity" />
+                <cheat code="0212D70463636363" type="Action Replay" description="Max Clan Skills" />
+
+                <!-- All things -->
+                <cheat code="D50000000001002D+C0000000000001FA+D60000000212DB34+D200000000000000" type="Action Replay" description="All tasks have been completed" />
+                <cheat code="D500000000000001+C0000000000001FA+D60000000212DB34+D200000000000000" type="Action Replay" description="All tasks are Unfinished" />
+                <cheat code="D500000000000020+C000000000000012+D80000000212D8DE+D200000000000000" type="Action Replay" description="All cities engrossed" />
+                <cheat code="5213BEE0B3C00C02+0213BEE0E3A01000+0213BF14E3A01000+0213BF60EA00000B+D200000000000000" type="Action Replay" description="All Classes Available" />
+                <cheat code="5213BF600A00000B+0213BF60EA00000B+D200000000000000" type="Action Replay" description="Hidden Classes Available" />
+
+                <!-- Items and Loot -->
+                <cheat code="920F146A0000A3A0+020F1468E3A00063+D200000000000000" type="Action Replay" description="Max Item on Usage" />
+                <cheat code="920F14660000B3A0+020F1464E5D20003+D200000000000000" type="Action Replay" description="Infinite Item Usage" />
+                <cheat code="94000130FFFB0000+D30000000212CCDC+D500000063000000+C0000000000001AF+D600000000000000+D400000000000001+D200000000000000" type="Action Replay" description="All Weapons, Armor, Accessories, and Items [Select]" />
+                <cheat code="94000130FFFB0000+D5000000630001B0+C0000000000000C8+D60000000212D39C+D400000000000001+DC00000000000000+D200000000000000" type="Action Replay" description="Have All Loot [Select]" />
+                <cheat code="520F1448E0800005+020F1448E3A00063+D000000000000000" type="Action Replay" description="Max Item/Loot After Selling Some" />
+                <cheat code="D5000000FFFFFFFF+C00000000000000C+D60000000212D6C8+D200000000000000" type="Action Replay" description="Shop Has All Items in Stock" />
+                <cheat code="920EFB6000000B01+020EFB64E3A01001+020EFB6CE5841000+D200000000000000" type="Action Replay" description="Equip Any Item With Any Class" />
+
+                <!-- Get things done -->
+                <cheat code="D500000000000001+C00000000000019A+D70000000212CCDC+DC00000000000002+D400000000000001+D200000000000000+C00000000000019A+2212CCDF00000063+DC00000000000004+D200000000000000" type="Action Replay" description="All Equipment" />
+                <cheat code="D50000000000019C+C000000000000012+D70000000212D34C+DC00000000000002+D400000000000001+D200000000000000+C000000000000012+2212D34F00000063+DC00000000000004+D200000000000000" type="Action Replay" description="All Consumable Items" />
+                <cheat code="D5000000000001AF+C0000000000000CB+D70000000212D398+DC00000000000002+D400000000000001+D200000000000000+C0000000000000CB+2212D39B00000063+DC00000000000004+D200000000000000" type="Action Replay" description="All Materials" />
+                <cheat code="C0000000000000C6+2212B172000000FF+2212B28E000000FF+2212B3AA000000FF+2212B4C6000000FF+2212B5E2000000FF+2212B6FE000000FF+2212B81A000000FF+2212B936000000FF+2212BA52000000FF+2212BB6E000000FF+2212BC8A000000FF+2212BDA6000000FF+2212BEC2000000FF+2212BFDE000000FF+2212C0FA000000FF+2212C216000000FF+2212C332000000FF+2212C44E000000FF+2212C56A000000FF+2212C686000000FF+2212C7A2000000FF+2212C8BE000000FF+2212C9DA000000FF+2212CAF6000000FF+DC00000000000001+D200000000000000" type="Action Replay" description="All Skills Learned" />
+
+                <!-- Misc -->
+                <cheat code="0210DC8CE1A00000" type="Action Replay" description="Quick Save not deleted" />
+                <cheat code="020B9FF8E287000F+020B9FFCE20070FF" type="Action Replay" description="Full map movement" />
+
+                <!-- Leveling and Power -->
+                <cheat code="94000130FFFB0000+C000000000000017+2212B13A00000063+DC0000000000011C+D200000000000000" type="Action Replay" description="Max Level [Select]" />
+                <cheat code="94000130FFFB0000+C000000000000017+2212B13C00000095+DC0000000000011C+D200000000000000" type="Action Replay" description="Max DEX [Select]" />
+                <cheat code="94000130FFFB0000+C000000000000017+1212B15C00000F9C+DC0000000000011C+D200000000000000" type="Action Replay" description="Max Attack [Select]" />
+                <cheat code="94000130FFFB0000+C000000000000017+1212B15E00000F9C+DC0000000000011C+D200000000000000" type="Action Replay" description="Max Defense [Select]" />
+                <cheat code="94000130FFFB0000+C000000000000017+1212B16000000F9C+DC0000000000011C+D200000000000000" type="Action Replay" description="Max Magic Atack [Select]" />
+                <cheat code="94000130FFFB0000+C000000000000017+1212B16200000F9C+DC0000000000011C+D200000000000000" type="Action Replay" description="Max Magic Defense [Select]" />
+                <cheat code="C000000000000017+2212B13400000014+DC0000000000011C+D200000000000000" type="Action Replay" description="Max MVP Tower" />
+                <cheat code="9208A6E400001002+0208A6E4EAFDD661+0200007017C01002+02000074E92D0007+02000078E59F0024+0200007CE3A01019+02000080E3510000+02000084159F201C+0200008815802028+0200008C12800C01+020000901280001C+0200009412411001+020000981AFFFFF8+0200009CE8BD0007+020000A0EA022990+020000A40212B120+020000A8064001E0+D200000000000000" type="Action Replay" description="Best Status Conditions" />
+                <cheat code="C000000000000017+0212B14800000000+0212B14C00000000+1212B15000000000+DC0000000000011C+D200000000000000" type="Action Replay" description="Always Normal State" />
+
+                <!-- In-Battle Codes -->
+                <cheat code="C000000000000015+22129AB000000064+DC00000000000048+D200000000000000" type="Action Replay" description="[Battle] Infinite Smash Gauge" />
+                <cheat code="2212D9A600000000" type="Action Replay" description="[Battle] All Laws Disabled" />
+                <cheat code="2212D9A500000035" type="Action Replay" description="[Battle] Clan AP+3" />
+                <cheat code="020BA000EBFD183A+020000F0E59F0008+020000F4E1540000+020000F8A3A070FF+020000FCE12FFF1E+020001000212B120" type="Action Replay" description="[Battle] Max Movement" />
+                <cheat code="94000130FFFB0000+C000000000000015+22129AB300000063+DC00000000000048+D200000000000000" type="Action Replay" description="[Battle] All Units Max Movement [Select]" />
+                <cheat code="C00000000000000C+12129FE800000001+DC0000000000011C+D200000000000000" type="Action Replay" description="[Battle] Weak Enemies" />
+                <cheat code="C00000000000000C+12129FEC00000000+DC0000000000011C+D200000000000000" type="Action Replay" description="[Battle] Enemies have no MP" />
+                <cheat code="C00000000000000C+22129FD000000000+DC0000000000011C+D200000000000000" type="Action Replay" description="[Battle] Always your turn" />
+                <cheat code="94000130FFFB0000+C00000000000000C+22129FDC000000FF+DC0000000000011C+D200000000000000" type="Action Replay" description="[Battle] Instant Enemy Death [Select]" />
+                <cheat code="94000130FFDB0000+2212D91100000000+D200000000000000" type="Action Replay" description="[Battle] Round Timer = 0 [Select ←]" />
+                <cheat code="94000130FFE70008+2212D91100000004+D200000000000000" type="Action Replay" description="[Battle] Round Timer = 4 [Select →]" />
+                <cheat code="94000130FFBB0000+020C37D0E3A00000+D200000000000000+94000130FF7B0000+020C37D0E3100001+D200000000000000" type="Action Replay" description="[Battle] CPU Autoplays [Select ↑/↓]" />
+                <cheat code="94000130FFDB0000+020C37D8E3A00000+D200000000000000+94000130FFEB0000+020C37D803A00000+D200000000000000" type="Action Replay" description="[Battle] Control Enemy [Select ←/→]" />
+                <cheat code="0206942CE1C011B2+94000130FDFF0000+0206942CE3A01000+D200000000000000" type="Action Replay" description="[Battle] Move again when choosing directions [Hold L]" />
+
+                <!-- Auction Codes -->
+                <cheat code="94000130FCFF0000+2229BE2600000020+D200000000000000" type="Action Replay" description="Instant Bid Win [L+R]" />
+                <cheat code="92294DE800000401+22294DEA00000021+D000000000000000" type="Action Replay" description="Easy Win Auction" />
+                <cheat code="021318AC63636363" type="Action Replay" description="99 of All Tokens" />
+                <cheat code="C000000000000004+021318B400000000+DC00000000000008+D200000000000000" type="Action Replay" description="Other Clans no Tokens" />
+                <cheat code="D5000000000003E7+C000000000000009+D70000000212DA8C+D200000000000000" type="Action Replay" description="Full Points in Auction" />
+                <cheat code="2212DB2B000000FB+2212DB2C000000CF" type="Action Replay" description="All Auction Awards" />
             </cheats>
         </game>
     </system>
