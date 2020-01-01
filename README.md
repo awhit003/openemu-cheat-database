@@ -18,5 +18,6 @@ Released as public domain, _The Unlicense_, or _Creative Commons Zero (CC0)_ —
 This is _itch-and-scratch-ware_. I had an itch. I scratched it. I stopped scratching when the itch stopped itching.
 
 * [GBA] Final Fantasy Tactics Advance
+* [NDS] Final Fantasy Tactics A2: Grimoire of the Rift
 
   [OpenEmu]: https://openemu.org
