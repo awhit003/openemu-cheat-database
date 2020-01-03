@@ -19,5 +19,7 @@ This is _itch-and-scratch-ware_. I had an itch. I scratched it. I stopped scratc
 
 * [GBA] Final Fantasy Tactics Advance
 * [NDS] Final Fantasy Tactics A2: Grimoire of the Rift
+* [SNES] Super Mario All-Stars
+* [SNES] The Legend of Zelda: A Link to the Past
 
   [OpenEmu]: https://openemu.org

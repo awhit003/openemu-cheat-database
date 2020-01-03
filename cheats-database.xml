@@ -443,19 +443,6 @@
         </game>
     </system>
     <system id="openemu.system.nds">
-        <game title="New Super Mario Bros. (USA)">
-            <hashes>
-                <hash md5="a2ddba012e5c3c2096d0be57cc273be5" />
-            </hashes>
-            <cheats>
-                <cheat code="1208B3340000027C+2208B32400000003" type="Action Replay" description="Always Giant Mario" />
-                <cheat code="2208B32C00000002" type="Action Replay" description="Always Have Fire Flower Power Up" />
-                <cheat code="22085A5000000001" type="Action Replay" description="Play As Luigi" />
-                <cheat code="2208B36400000063" type="Action Replay" description="Infinite Lives" />
-                <cheat code="1208B3500000027C" type="Action Replay" description="Invincible" />
-                <cheat code="02088C3C00430043+02088C4000430043+02088C4400430043+02088C4800430043" type="Action Replay" description="Open All Worlds" />
-            </cheats>
-        </game>
         <game title="Final Fantasy Tactics A2: Grimoire of the Rift (USA)">
             <hashes>
                 <hash md5="aaffeb638f1ac98ed3a954264ad1bf2e" />
@@ -541,43 +528,119 @@
         </game>
     </system>
     <system id="openemu.system.nes">
-        <game title="Bad Dudes (USA)">
-            <hashes>
-                <hash md5="e5f71b547f6a8c6166c55b1baa7d21c5" />
-            </hashes>
-            <cheats>
-                <cheat code="AVSOYOSZ+ELEAPOZE+AIEAZPAP" type="Game Genie" description="Invincibility" />
-                <cheat code="APEETPEY" type="Game Genie" description="Infinite health" />
-                <cheat code="SZOEAOSE" type="Game Genie" description="Infinite health (alt)" />
-                <cheat code="SZNKASVK" type="Game Genie" description="Infinite lives" />
-                <cheat code="GXOKASVK" type="Game Genie" description="Infinite continues" />
-                <cheat code="SGVYOUVK" type="Game Genie" description="Infinite time" />
-                <cheat code="AAUPIOGI" type="Game Genie" description="Hit anywhere" />
-                <cheat code="AOUSNGEY" type="Game Genie" description="One hit kills" />
-                <cheat code="PENXYZLA" type="Game Genie" description="Start with 1 life and 1 continue" />
-                <cheat code="TENXYZLA" type="Game Genie" description="Start with double lives and continues" />
-                <cheat code="PENXYZLE" type="Game Genie" description="Start with triple lives and continues" />
-                <cheat code="PESAIYIE" type="Game Genie" description="Gain double usual energy from drinks" />
-                <cheat code="02A2:01" type="Action Replay" description="Have the Nunchaku" />
-                <cheat code="02A2:02" type="Action Replay" description="Have the Knife" />
-                <cheat code="032F:00+0344:00" type="Action Replay" description="One hit kills on bosses" />
-            </cheats>
-        </game>
     </system>
     <system id="openemu.system.snes">
-        <game title="Super Mario World (USA)">
+        <game title="The Legend of Zelda: A Link to the Past">
             <hashes>
-                <hash md5="cdd3c8c37322978ca8669b34bc89c804" />
-                <hash md5="dbe1f3c8f3a0b2db52b7d59417891117" />
+                <hash md5="1a74468291b02729329dd1357afb45af" />
+                <hash md5="608c22b8ff930c62dc2de54bcd6eba72" />
             </hashes>
             <cheats>
-                <cheat code="CBB7-6D67+D4B7-6DA7+3CB7-6FD7+69B7-6F07" type="Game Genie" description="Start as Cape Mario" />
-                <cheat code="CBB7-6D67+D7B7-6DA7+3CB7-6FD7+69B7-6F07" type="Game Genie" description="Start as Fire Mario" />
-                <cheat code="14B4-6F07" type="Game Genie" description="Start with 99 lives" />
-                <cheat code="7E1497:FF" type="Action Replay" description="Invincibility" />
-                <cheat code="7E1490:FF" type="Action Replay" description="Invincibility (Starman)" />
-                <cheat code="7E0019:03" type="Action Replay" description="Always Fiery Mario" />
-                <cheat code="7E0DC1:01" type="Action Replay" description="Always have Yoshi" />
+                <!-- https://github.com/CheatDatabase/OpenEmu-cheats-database/blob/master/cheats-database.xml -->
+
+                <cheat code="7EF360:E7+7EF361:03" type="Action Replay" description="999 Rupees" />
+                <cheat code="7EF36E:80" type="Action Replay" description="Infinite Magic" />
+                <cheat code="7EF36D:A0" type="Action Replay" description="Infinite Health" />
+                <cheat code="7E031F:10" type="Action Replay" description="Invincible" />
+
+                <cheat code="" type="Game Genie" description="--------------------" />
+
+                <cheat code="DDB5-D7FE" type="Game Genie" description="Sword Beams" />
+                <cheat code="7EF343:32+7EF370:0F" type="Action Replay" description="Infinite bombs" />
+                <cheat code="7EF377:1E+7EF377:46" type="Action Replay" description="Infinite arrows" />
+                <cheat code="7EF36F:04" type="Action Replay" description="Infinite small keys" />
+                <cheat code="7EF366:FF+7EF367:FF" type="Action Replay" description="Big key" />
+                <cheat code="7E045A:03" type="Action Replay" description="All dark rooms always lit" />
+                <cheat code="6DEB-A46D" type="Game Genie" description="Faster fade to black" />
+
+                <cheat code="" type="Game Genie" description="--------------------" />
+
+                <cheat code="7E0055:01" type="Action Replay" description="Always wearing Magic Cape, but can use other items" />
+                <cheat code="7EF374:07" type="Action Replay" description="All Pendants" />
+                <cheat code="5EED-0DFF" type="Game Genie" description="All Crystals" />
+                <cheat code="DFE2-DFFF" type="Game Genie" description="Book of Mudora" />
+                <cheat code="D4EA-DF2F" type="Game Genie" description="Boomerang: Original (Level 2)" />
+                <cheat code="DFE0-2A56+82BD-6F4D" type="Game Genie" description="Boomerang: Blue (Level 1)" />
+                <cheat code="D4E0-2A56" type="Game Genie" description="Boomerang: Red (Level 2)" />
+                <cheat code="DFE2-DF9F" type="Game Genie" description="Bottles" />
+                <cheat code="7EF340:01" type="Action Replay" description="Bow" />
+                <cheat code="7EF340:04" type="Action Replay" description="Bow and Silver Arrows" />
+                <cheat code="DFE2-DD2F" type="Game Genie" description="Bug Catching Net" />
+                <cheat code="7EF351:01" type="Action Replay" description="Cane of Byrna" />
+                <cheat code="7EF350:01" type="Action Replay" description="Cane of Somaria" />
+                <cheat code="7EF345:01" type="Action Replay" description="Fire Rod" />
+                <cheat code="DFE2-D7FF" type="Game Genie" description="Flippers" />
+                <cheat code="D4E2-DDBF" type="Game Genie" description="Flute" />
+                <cheat code="DFE2-D4BF" type="Game Genie" description="Glove" />
+                <cheat code="DFE9-2376" type="Game Genie" description="Gloves: Silver (Level 1)" />
+                <cheat code="D4E9-2276" type="Game Genie" description="Gloves: Golden (Level 2)" />
+                <!-- <cheat code="7EF354:01" type="Action Replay" description="Power Glove" /> -->
+                <!-- <cheat code="7EF354:02" type="Action Replay" description="Titans mitts" /> -->
+                <cheat code="DFE2-DD9F" type="Game Genie" description="Hammer" />
+                <cheat code="7EF342:01" type="Action Replay" description="Hook Shot" />
+                <cheat code="7EF346:01" type="Action Replay" description="Ice Rod" />
+                <cheat code="DFE2-DDFF" type="Game Genie" description="Lamp" />
+                <cheat code="7EF352:01" type="Action Replay" description="Magic Cape" />
+                <cheat code="7EF353:02" type="Action Replay" description="Magic Mirror" />
+                <cheat code="D4EA-D4BF" type="Game Genie" description="Magic Powder" />
+                <!-- <cheat code="D4E0-2276" type="Game Genie" description="Magic Powder" /> -->
+                <cheat code="7EF347:01" type="Action Replay" description="Medallion: Bombos" />
+                <cheat code="7EF348:01" type="Action Replay" description="Medallion: Ether" />
+                <cheat code="7EF349:01" type="Action Replay" description="Medallion: Quake" />
+                <cheat code="D7E3-DDFF" type="Game Genie" description="Mirror Shield" />
+                <cheat code="7EF357:01" type="Action Replay" description="Moon Pearl" />
+                <cheat code="DFEA-D4BF" type="Game Genie" description="Mushroom" />
+                <cheat code="DFE2-D42F" type="Game Genie" description="Pegasus Boots" />
+                <cheat code="DDE9-2386" type="Game Genie" description="Shield: Small (Level 1)" />
+                <cheat code="DFE9-2386" type="Game Genie" description="Shield: Red (Level 2)" />
+                <cheat code="D4E9-2386" type="Game Genie" description="Shield: Golden (Level 3)" />
+                <!-- <cheat code="7EF35A:01" type="Action Replay" description="Uncle's Shield" /> -->
+                <!-- <cheat code="7EF35A:02" type="Action Replay" description="Red Shield" /> -->
+                <!-- <cheat code="7EF35A:03" type="Action Replay" description="Mirror Shield" /> -->
+                <cheat code="DDE9-23E6" type="Game Genie" description="Shirt: Green (Level 1)" />
+                <cheat code="DFE9-23E6" type="Game Genie" description="Shirt: Blue (Level 2)" />
+                <cheat code="D4E9-23E6" type="Game Genie" description="Shirt: Red (Level 3)" />
+                <!-- <cheat code="7EF35B:01" type="Action Replay" description="Blue Mail" /> -->
+                <!-- <cheat code="7EF35B:02" type="Action Replay" description="Red Mail" /> -->
+                <cheat code="DFE2-DDBF" type="Game Genie" description="Shovel" />
+                <cheat code="108E-D481" type="Game Genie" description="Sword: Beginner (Strong)" />
+                <cheat code="7EF359:01" type="Action Replay" description="Sword: Short (Level 1)" />
+                <cheat code="7EF359:02" type="Action Replay" description="Sword: Master (Level 2)" />
+                <cheat code="7EF359:03" type="Action Replay" description="Sword: Tempered Master (Level 3)" />
+                <cheat code="7EF359:04" type="Action Replay" description="Sword: Golden (Level 4)" />
+                <cheat code="7EF356:01" type="Action Replay" description="Zora's Flippers" />
+            </cheats>
+        </game>
+        <game title="Super Mario All-Stars">
+            <hashes>
+                <hash md5="1574f4289f369471ee0e02d7c7cc39ec" />
+            </hashes>
+            <cheats>
+                <!-- Super Mario Bros. -->
+                <cheat code="C2C1-D4AA" type="Game Genie" description="SMB: Infinite Lives" />
+                <cheat code="6D84-DF03" type="Game Genie" description="SMB: Infinite Time" />
+
+                <cheat code="" type="Game Genie" description="--------------------" />
+
+                <!-- Super Mario Bros. 2 -->
+                <cheat code="C26E-D5A6" type="Game Genie" description="SMB2: Infinite Lives" />
+                <cheat code="D46B-A9A1" type="Game Genie" description="SMB2: Continue with 4 hearts" />
+                <cheat code="DD32-6966" type="Game Genie" description="SMB2: Never lose hearts" />
+
+                <cheat code="" type="Game Genie" description="--------------------" />
+
+                <!-- Super Mario Bros. 3 -->
+                <cheat code="82BB-0C6D" type="Game Genie" description="SMB3: Infinite Lives" />
+                <cheat code="6D3D-6619" type="Game Genie" description="SMB3: Infinite Time" />
+                <cheat code="DDAF-A8A3" type="Game Genie" description="SMB3: Full P-Meter" />
+                <cheat code="C23B-680D" type="Game Genie" description="SMB3: Stars Last to End-of-Level" />
+                <cheat code="DDA9-A603" type="Game Genie" description="SMB3: Skywalking" />
+                <cheat code="CB69-AC07+DF69-AC67" type="Game Genie" description="SMB3: Map is Big Mario" />
+                <cheat code="CB69-AC07+D469-AC67" type="Game Genie" description="SMB3: Map is Fire Mario" />
+                <cheat code="CB69-AC07+D769-AC67" type="Game Genie" description="SMB3: Map is Raccoon Mario" />
+                <cheat code="CB69-AC07+D069-AC67" type="Game Genie" description="SMB3: Map is Frog Mario" />
+                <cheat code="CB69-AC07+D969-AC67" type="Game Genie" description="SMB3: Map is Tanooki Mario" />
+                <cheat code="CB69-AC07+D169-AC67" type="Game Genie" description="SMB3: Map is Sledgehammer Mario" />
             </cheats>
         </game>
     </system>
