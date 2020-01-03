@@ -530,6 +530,30 @@
     <system id="openemu.system.nes">
     </system>
     <system id="openemu.system.snes">
+        <game title="Chrono Trigger">
+            <hashes>
+                <hash md5="395bf4d0a75717b03c0c2131495faf7a" />
+            </hashes>
+            <cheats>
+                <!-- https://gamehacking.org/game/42539 -->
+
+                <cheat code="3C3C-7DD5" type="Game Genie" description="Infinite Health" />
+                <cheat code="7E2C53:7F+7E2C54:96+7E2C55:98" type="Action Replay" description="Infinite Money" />
+                <cheat code="7EB2DB:E7+7EB2DC:03" type="Action Replay" description="Infinite Tech Points" />
+                <cheat code="7E110F:FF+7F0052:FF" type="Action Replay" description="Infinite Silver Points" />
+                <cheat code="C1BCEE:78+7E009A:03+7E00BA:00" type="Action Replay" description="Infinite Speed (May Blackout)" />
+                <cheat code="7EB28C:FF+7EB28D:FF" type="Action Replay" description="High Experience" />
+                <cheat code="7E284D:FF+7E284E:FF+7E284F:FF+7E2850:FF+7E2851:FF+7E2852:FF+7E2853:FF+7E2854:FF+7E2855:FF+7E2856:FF" type="Action Replay" description="All Triple Techs" />
+                <cheat code="CC1B21:08+CC1B25:08+CC1B1D:81+CC1B23:08+CC1B1F:08+CC1B27:08+CC1B28:00+CC1B2B:08+7E27A0:63+7E279F:63+7E279E:63+7E27A1:63+7E279B:63+7E279D:63+7E279C:63+7E2793:E7+7E2794:03+7E2797:E7+7E2798:03+7E2795:E7+7E2796:03+7E2799:E7+7E279A:03+7E27B2:FF+7E283C:FF+7E27A2:63" type="Action Replay" description="Ayla (All)" />
+                <cheat code="CC1AD9:08+CC1ACD:08+CC1ACE:00+CC1AD5:04+CC1AD1:08+CC1ACF:08+CC1AD0:00+CC1AD3:08+7E2610:63+7E260F:63+7E260E:63+7E2611:63+7E260B:63+7E260D:63+7E260C:63+7E2622:FF+7E2837:FF+7E2612:63+7E2603:E7+7E2604:03+7E2607:63+7E2605:E7+7E2606:03+7E2609:63" type="Action Replay" description="Crono (All)" />
+                <cheat code="CC1B19:81+CC1B15:08+CC1B0F:08+CC1B0D:81+CC1B11:08+7E2750:63+7E274F:63+7E274E:63+7E2751:63+7E274B:63+7E274D:63+7E274C:63+7E2743:E7+7E2744:03+7E2747:E7+7E2748:03+7E2745:E7+7E2746:03+7E2749:E7+7E274A:03+7E2762:FF+7E283B:FF+7E2752:63" type="Action Replay" description="Frog (All)" />
+                <cheat code="CC1AF1:08+CC1AED:08+CC1AEE:00+CC1AF9:08+CC1AFA:00+CC1AF3:08+CC1AF4:00+CC1AF5:01+7E26B0:63+7E26AF:63+7E26AE:63+7E26B1:63+7E26AB:63+7E26AD:63+7E26AC:63+7E26A3:E7+7E26A4:03+7E26A7:E7+7E26A8:03+7E26A5:E7+7E26A6:03+7E26A9:E7+7E26AA:03+7E26C2:FF+7E2839:FF+7E26B2:63" type="Action Replay" description="Lucca (All)" />
+                <cheat code="CC1B39:08+CC1B3A:00+CC1B33:08+CC1B34:00+CC1B35:01+7E27F0:63+7E27EF:63+7E27EE:63+7E27F1:63+7E27EB:63+7E27ED:63+7E27EC:63+7E27E3:E7+7E27E4:03+7E27E7:E7+7E27E8:03+7E27E5:E7+7E27E6:03+7E27E9:E7+7E27EA:03+7E2802:FF+7E283D:FF+7E27F2:63" type="Action Replay" description="Magus (All)" />
+                <cheat code="CC1ADD:81+CC1AE3:81+CC1AE9:81+CC1AE5:01+CC1AE1:08+CC1AEA:04+CC1ADF:08+7E2660:63+7E265F:63+7E265E:63+7E2661:63+7E265B:63+7E265D:63+7E265C:63+7E2653:E7+7E2654:03+7E2657:E7+7E2658:03+7E2655:E7+7E2656:03+7E2659:E7+7E265A:03+7E2672:FF+7E2838:FF+7E2662:63" type="Action Replay" description="Marle (All)" />
+                <cheat code="CC1B09:08+CC1B0A:00+CC1AFF:81+CC1B03:08+CC1AFD:08+CC1B07:08+7E2700:63+7E26FF:63+7E26FE:63+7E2701:63+7E26FB:63+7E26FD:63+7E26FC:63+7E26F3:E7+7E26F4:03+7E26F7:E7+7E26F8:03+7E26F5:E7+7E26F6:03+7E26F9:E7+7E26FA:03+7E2712:FF+7E283A:FF+7E2702:63" type="Action Replay" description="Robo (All)" />
+            </cheats>
+        </game>
+
         <game title="The Legend of Zelda: A Link to the Past">
             <hashes>
                 <hash md5="1a74468291b02729329dd1357afb45af" />
