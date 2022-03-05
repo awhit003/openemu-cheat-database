@@ -22,5 +22,6 @@ This is _itch-and-scratch-ware_. I had an itch. I scratched it. I stopped scratc
 * [SNES] Chrono Trigger
 * [SNES] Super Mario All-Stars
 * [SNES] The Legend of Zelda: A Link to the Past
+* [N64] Paper Mario
 
   [OpenEmu]: https://openemu.org

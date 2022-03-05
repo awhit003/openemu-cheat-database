@@ -423,6 +423,25 @@
         </game>
     </system>
     <system id="openemu.system.n64">
+        <game title="Paper Mario (USA)">
+            <hashes>
+                <hash md5="a722f8161ff489943191330bf8416496" />
+            </hashes>
+            <cheats>
+                <cheat code="DE025C000000+F106C6B02400" type="GameShark" description="(M)" />
+                <cheat code="8010F2AC0001+8010F2B40001+8010F2BC0001+8010F2C40001+8010F2CC0001+8010F2D40001" type="GameShark" description="All Party Members" />
+                <cheat code="8010F51E0007" type="GameShark" description="All Star Spirits" />
+                <cheat code="8010F2920063+8010F2930063" type="GameShark" description="Infinite HP (Mario)" />
+                <cheat code="8010F2950063+8010F2960063" type="GameShark" description="Infinite FP (Mario)" />
+                <cheat code="8110F29C03E7" type="GameShark" description="Infinite Coins" />
+                <cheat code="8010F2990063" type="GameShark" description="Max Level (Mario)" />
+                <cheat code="8010F2A00063" type="GameShark" description="Max Star Points" />
+                <cheat code="8010F2980063" type="GameShark" description="Max Badge Points" />
+                <cheat code="8010F29F0063" type="GameShark" description="Max Star Pieces" />
+                <cheat code="D12723D601B8+812723CC0802+D12723D601B8+812723CE6A20+D12723D601B8+812723D03C1B+D12723D601B8+812723D28011+8109A8809262+8109A88201B8+8109A884877B+8109A886F532+8109A8882415+8109A88A0001+8109A88C12BB+8109A88E0002+8109A8902400+8109A8942602+8109A8960000+8109A8980050+8109A89A1023+8109A89C0809+8109A89EC8F5+D127EB609262+8127EB602402+D127EB6201B8+8127EB620001" type="GameShark" description="One Hit Kills" />
+                <cheat code="D12448460040+8124483C2402+D12448460040+8124483E0000" type="GameShark" description="Free Badges" />
+            </cheats>
+        </game>
         <game title="Super Mario 64 (USA)">
             <hashes>
                 <hash md5="165a9558b7539507e73e7afecffb200c" />
