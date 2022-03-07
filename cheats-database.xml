@@ -423,6 +423,66 @@
         </game>
     </system>
     <system id="openemu.system.n64">
+        <game title="Legend of Zelda: Ocarina of Time (USA)">
+            <hashes>
+                <hash md5="57a9719ad547c516342e1a15d5c28c3d" />
+            </hashes>
+            <cheats>
+                <!-- https://gamehacking.org/game/21086 (USA; Rev 2) -->
+                <!-- <cheat code="" type="GameShark" description="" /> -->
+
+                <cheat code="F10004E42400+F00003190078" type="GameShark" description="(M)" />
+                <cheat code="D01C8D750020+811DB35040CB" type="GameShark" description="Hold L For Moon Jump" />
+                <cheat code="8107259C2FA5" type="GameShark" description="Mostly Disable Navi's Pestering" />
+                <cheat code="8111AD5003E7" type="GameShark" description="All Skulltulas Killed" />
+
+                <cheat code="8111ACAE0140+8111ACB00140+8011ACB00040" type="GameShark" description="Max/Infinite Hearts" />
+                <cheat code="D011ACB90008+8011ACBA0001+8011ACBC0001+8011ACB30060" type="GameShark" description="Infinite Magic" />
+
+                <cheat code="801DBB150001+8107BC882400" type="GameShark" description="Aiming Dot Visible" />
+                <cheat code="8111AD1C7777" type="GameShark" description="Have All Equipment" />
+                <cheat code="8111AD2430FF+8111AD26FFFF" type="GameShark" description="Have All Quest/Status Items" />
+
+                <cheat code="8011ACFA0006+8011AD120009" type="GameShark" description="Have Infinite Slingshot" />
+                <cheat code="8011ACF50001+8011AD0D0009" type="GameShark" description="Have Infinite Deku Nuts" />
+                <cheat code="8011ACF40000+8011AD0C0009" type="GameShark" description="Have Infinite Deku Sticks" />
+                <cheat code="8011AD060002+8011AD0E0009" type="GameShark" description="Have Infinite Bombs" />
+                <cheat code="8011ACFC0009+8011AD140009" type="GameShark" description="Have Infinite Bombchus" />
+                <cheat code="8011ACFB0007" type="GameShark" description="Have Fairy Ocarina" />
+                <cheat code="8011AD00000E" type="GameShark" description="Have Boomerang" />
+                <cheat code="8011AD01000F" type="GameShark" description="Have Lens of Truth" />
+                <cheat code="8011AD020010+8011AD1A0009" type="GameShark" description="Infinite Magic Beans" />
+                <cheat code="8011ACF90005" type="GameShark" description="Have Din's Fire" />
+                <cheat code="8011ACFF000D" type="GameShark" description="Have Farore's Wind" />
+                <cheat code="8011AD050013" type="GameShark" description="Have Nayru's Love" />
+
+                <cheat code="8011ACF70003+8011AD0F0009" type="GameShark" description="[Adult] Have Bow + Infinite Arrows" />
+                <cheat code="8011ACF80004" type="GameShark" description="[Adult] Have Fire Arrows" />
+                <cheat code="8011ACFE000C" type="GameShark" description="[Adult] Have Ice Arrows" />
+                <cheat code="8011AD040012" type="GameShark" description="[Adult] Have Light Arrows" />
+                <cheat code="8011ACFD000A" type="GameShark" description="[Adult] Have Hookshot" />
+                <cheat code="8011ACFD000B" type="GameShark" description="[Adult] Have Longshot" />
+                <cheat code="8011AD030011" type="GameShark" description="[Adult] Have Megaton Hammer" />
+                <cheat code="8011AD210001" type="GameShark" description="[Adult] Have Quiver" />
+
+                <cheat code="8111C04C0001" type="GameShark" description="Infinite Rupees" />
+                <cheat code="810F933C0063" type="GameShark" description="Max Rupees Kid Wallet" />
+                <cheat code="810F933E03E7" type="GameShark" description="Max Rupees Adult Wallet" />
+                <cheat code="810F934003E7" type="GameShark" description="Max Rupees Giant Wallet" />
+
+                <cheat code="8011AD300007+8011AD440009" type="GameShark" description="[Child Dungeon] Bottom of Well" />
+                <cheat code="8011AD290007" type="GameShark" description="[Child Dungeon] Dodongo's Cavern" />
+                <cheat code="8011AD2A0007" type="GameShark" description="[Child Dungeon] Jabu-Jabu's Belly" />
+
+                <cheat code="8011AD2C0007+8011AD3F0009" type="GameShark" description="[Adult Dungeon] Forest Temple" />
+                <cheat code="8011AD310007" type="GameShark" description="[Adult Dungeon] Ice Cavern" />
+                <cheat code="8011AD2F0007+8011AD430009" type="GameShark" description="[Adult Dungeon] Shadow Temple" />
+                <cheat code="8011AD320007+8011AD420009" type="GameShark" description="[Adult Dungeon] Spirit Temple" />
+                <cheat code="8011AD2D0007+8011AD410009" type="GameShark" description="[Adult Dungeon] Water Temple" />
+                <cheat code="8011AD400009" type="GameShark" description="[Adult Dungeon] Fire Temple" />
+            </cheats>
+        </game>
+
         <game title="Paper Mario (USA)">
             <hashes>
                 <hash md5="a722f8161ff489943191330bf8416496" />
@@ -442,6 +502,7 @@
                 <cheat code="D12448460040+8124483C2402+D12448460040+8124483E0000" type="GameShark" description="Free Badges" />
             </cheats>
         </game>
+
         <game title="Super Mario 64 (USA)">
             <hashes>
                 <hash md5="165a9558b7539507e73e7afecffb200c" />
@@ -458,6 +519,24 @@
                 <cheat code="8033B1770019" type="GameShark" description="Flying Mario" />
                 <cheat code="D134B89E0860+8134B89C8019+D134B89E0860+8134B89E51AC" type="GameShark" description="Play as Mips (Rabbit)" />
                 <cheat code="D134B89E0860+8134B89C8019+D134B89E0860+8134B89E4E28" type="GameShark" description="Play as Yoshi" />
+            </cheats>
+        </game>
+
+        <game title="Super Mario 64 (USA)">
+            <hashes>
+                <hash md5="3a67d9986f54eb282924fca4cd5f6dff" />
+            </hashes>
+            <cheats>
+                <!-- https://gamehacking.org/game/20598 -->
+
+                <cheat code="811643960000+8116439A0000+8116439E0000+811643A20000+811643A60000+811643AA0000+811643AE0000" type="GameShark" description="Always Finish In First Place" />
+                <cheat code="811643900000+811643920002" type="GameShark" description="P1 No Laps To Race" />
+                <cheat code="811643900000+811643920003" type="GameShark" description="P1 Instant Win" />
+                <cheat code="D00F69150010+810F6A1045FF" type="GameShark" description="P1 Ultimate Speed" />
+                <cheat code="8118D8C00002" type="GameShark" description="P1 Infinite Balloons" />
+                <cheat code="81164390FFFF+81164392FFFF" type="GameShark" description="P1 Always Last Place" />
+                <cheat code="8102CE3A800F+8102CE3C3463+8102CE3E6990+8102CE401203" type="GameShark" description="Roadkill Mode" />
+                <cheat code="810FBD2C46FF+810F93A446FF+810F77F446FF+810FCB0446FF+810F85CC46FF+810FAF5446FF+810FA17C46FF" type="GameShark" description="Mario Kart 300 CC Cup" />
             </cheats>
         </game>
     </system>
@@ -573,6 +652,26 @@
             </cheats>
         </game>
 
+        <game title="Final Fantasy II">
+            <hashes>
+                <hash md5="27d02a4f03e172e029c9b82ac3db79f7" />
+            </hashes>
+            <cheats>
+                <!-- https://gamehacking.org/game/42895 -->
+                <!-- https://gamehacking.org/game/42896 -->
+
+                <cheat code="82AE-6F63" type="Game Genie" description="Almost Infinite HP" />
+                <cheat code="DDC9-6FDE" type="Game Genie" description="Enemies Self-Attack" />
+                <cheat code="B38A-D7AE" type="Game Genie" description="Enemies Don't Attack" />
+                <cheat code="DFE5-A1AE+87E6-A1AE+8FEB-A00E" type="Game Genie" description="Gain 16mm+ Exp After Each Battle" />
+                <cheat code="3336-0FAE" type="Game Genie" description="Gain 65k+ Gil After Each Battle" />
+                <cheat code="C2AD-AD69+C3AD-AFA9" type="Game Genie" description="No Cost in Shops" />
+                <cheat code="1D60-0704" type="Game Genie" description="No Random Encounters [v.A and v.B]" />
+                <cheat code="DB64-D0D6+D064-D006" type="Game Genie" description="Skip Story Intro" />
+                <cheat code="CBBA-07A4" type="Game Genie" description="Save Anywhere" />
+            </cheats>
+        </game>
+
         <game title="The Legend of Zelda: A Link to the Past">
             <hashes>
                 <hash md5="1a74468291b02729329dd1357afb45af" />
@@ -654,6 +753,7 @@
                 <cheat code="7EF356:01" type="Action Replay" description="Zora's Flippers" />
             </cheats>
         </game>
+
         <game title="Super Mario All-Stars">
             <hashes>
                 <hash md5="1574f4289f369471ee0e02d7c7cc39ec" />
