@@ -1,3 +1,7 @@
+I am attemptng to automate this process. Should be simple. Use Automator to run a script when app is started. Run the make file?
+
+From skyzyx/openemu-cheat-database:
+
 # OpenEmu Cheat Database
 
 [OpenEmu] cheat database for games I play. Since OpenEmu doesn't (yet) support persisting cheats, this is my backup of the `cheats-database.xml` file with my own customizations. This list is updated periodically as I sit down to play new games.
