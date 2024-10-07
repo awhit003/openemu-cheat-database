@@ -1,4 +1,6 @@
-I am attemptng to automate this process. Should be simple. Use Automator to run a script when app is started. Run the make file?
+I am attemptng to automate this process. Should be simple. Use Automator to run a script when app is started. Run the make file? I'll work that out, later.
+
+Add cheat codes directly to the xml without OpenEMU? hmm...
 
 From skyzyx/openemu-cheat-database:
 
