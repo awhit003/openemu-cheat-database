@@ -2,6 +2,18 @@ I am attemptng to automate this process. Should be simple. Use Automator to run 
 
 Add cheat codes directly to the xml without OpenEMU? hmm...
 
+Auto append (concatenate?) codes together?
+AEOZKNTA
+AUSZXSZK
+OXXSYNPX
+VGEGPISZ
+AEUZVNGP
+becomes 
+AEOZKNTA+AUSZXSZK+OXXSYNPX+VGEGPISZ+AEUZVNGP+GASILYPA
+
+
+
+
 From skyzyx/openemu-cheat-database:
 
 # OpenEmu Cheat Database
